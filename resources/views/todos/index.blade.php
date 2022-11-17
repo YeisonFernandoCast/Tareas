@@ -26,6 +26,12 @@
             </select>
             <input type="submit" value="Crear tarea" class="btn btn-primary my-2" />
         </div>
+        <div>
+            ---------------------------------------
+        </div>
+        <div>
+            <label for="category_id" class="form-label">Tareas Actuales</label>
+        </div>
     </form>
 
     <div >
