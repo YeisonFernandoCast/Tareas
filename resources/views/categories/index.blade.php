@@ -21,10 +21,11 @@
                 </div>
 
                 <div class="mb-3">
-                    <label for="color" class="form-label">Color Categoria</label>
+                    <label for="name" class="form-label">Color</label>
                     <input type="color" class="form-control" name="color">
                 </div>
-                    
+
+
                 <button type="submit" class="btn btn-primary">Crear Categoria</button>
             </form>  
 

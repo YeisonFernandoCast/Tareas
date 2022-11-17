@@ -16,7 +16,7 @@ use App\Http\Controllers\CategoriesController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('app');
 });
 
 Route::get('/tareas', [TodosController::class, 'index'])->name('todos');
